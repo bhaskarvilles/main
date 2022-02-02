@@ -1,0 +1,32 @@
+BaseURL: 'https://bhaskarvilles.github.io/portfolio/'
+languageCode: en-us
+title: Bhaskara Ram
+theme: hugo-PaperMod
+params:
+    profileMode:
+        enabled: true
+        title: "A Bhaskara Ram" # optional default will be site title
+        subtitle: "Hacker | Developer | Trader | Enterpruner"
+        imageUrl: "" # optional
+        imageTitle: "" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+    socialIcons: # optional
+        - name: "Linkedin"
+        - url: "https://linkedin.com/in/bhaskarvilles"
+        - name: "Facebook"
+        - url: "https://facebook.com/bhaskarvilles"
+        - name: "Instagram"
+        - url: "https://instagram.com/bhaskarvilles"
+        - name: "Telegram"
+        - url: "https://t.me/bhaskarvilles"
+        - name: "Keybase"
+        - url: "https://keybase.io/bhaskarvilles"
+        - name: "Matrix"
+        - url: "https://matrix.to/#/@bhaskarvilles:matrix.org"
+        - name: "Twitter"
+        - url: "https://twitter.com/bhaskarvilles"
+        - name: "Github"
+        - url: "https://github.com/bhaskarvilles"
+        - name: "Gitlab"
+        - url: "https://gitlab.com/bhaskarvilles"
