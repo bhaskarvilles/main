@@ -1,4 +1,4 @@
-BaseURL: 'https://bhaskarvilles.github.io'
+BaseURL: 'https://bhaskarvilles.dev'
 languageCode: en-us
 title: Bhaskara Ram
 theme: hugo-PaperMod
@@ -7,7 +7,7 @@ params:
         enabled: true
         title: "A Bhaskara Ram" # optional default will be site title
         subtitle: "Hacker | Developer | Trader | Enterpruner"
-        imageUrl: "" # optional
+        imageUrl: "https://raw.githubusercontent.com/bhaskarvilles/bhaskar1/bhaskarvilles/files/avatar1.jpg" # optional
         imageTitle: "" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
